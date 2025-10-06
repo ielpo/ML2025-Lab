@@ -1,0 +1,23 @@
+[project]
+name = "ml2025-lab"
+version = "0.1.0"
+description = "Machine Learning Lecture Fall 2025 Lab"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bt>=0.2.9",
+    "ipython>=5.5.0",
+    "jupyter>=1.0.0",
+    "matplotlib==3.10.1",
+    "numpy>=1.14.1",
+    "openpyxl==3.0.5",
+    "pandas>=1.3.5",
+    "pandas-datareader>=0.10.0",
+    "rasterio>=1.2.10",
+    "scikit-image>=0.16.1",
+    "scikit-learn>=0.19.0",
+    "scipy>=1.0.0",
+    "seaborn>=0.9.0",
+    "torch>=1.6.0",
+    "torchvision>=0.7.0",
+]
