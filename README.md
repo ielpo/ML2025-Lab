@@ -38,9 +38,9 @@ This table lists all lab session and coding challenge session incl. the launcher
 | Mon, Oct. 20            | **Lab 5**   | LSTMs - Stock Price Prediction       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_5/lab_05_stock-price[extra].ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_5%2Flab_05_stock-price[extra].ipynb) |
 | -                       | -       | Semester Break                         | -   | -   |
 | Mon, Nov. 10           | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
-| Mon, Nov. 17            | **Lab 6**   | Attention              | [TBA] | [TBA] |
-| Mon, Nov. 24            | **Lab 7**   | K-Means, EM Clustering & Iris               | [TBA] | [TBA] |
-| Mon, Dec. 1            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [TBA] | [TBA] |
+| Mon, Nov. 17            | **Lab 6**   | Attention              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_6/gpt.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_6%2gpt.ipynb) |
+| Mon, Nov. 24            | **Lab 7**   | K-Means, EM Clustering & Iris               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_7/unsupervised.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_7%2unsupervised.ipynb)  |
+| Mon, Dec. 1            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_8/lab_08.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_8%2lab_08.ipynb) |
 | Mon, Dec. 8            | **Lab 9**   | Transfer Learning & SSL  | [TBA] | [TBA] |
 | Mon, Dec. 15            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
 
